@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply p-1 bg-zinc-200 rounded hover:bg-blue-950;
+  }
+}
+body{
+  background:linear-gradient(245.59deg, #4d6199 0%, #385a70 27.59%, #131c39 75.52%);
+}
