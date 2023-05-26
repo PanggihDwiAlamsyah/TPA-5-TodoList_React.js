@@ -15,7 +15,7 @@ Membuat sebuah aplikasi Todo List menggunakan React.js dan state management Redu
 
 ## Link Akses 
 
-- Netlify : 
+- Netlify : https://tpa-5-todolist-react.netlify.app/ 
 
 ## Scrensoot Hasil Demo 
 
